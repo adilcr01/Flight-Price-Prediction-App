@@ -5,7 +5,7 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
-  * [Deployement on Heroku](#deployement-on-heroku)
+  * [Deployment on Azure](#deployement-on-Azure)
   * [Directory Tree](#directory-tree)
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
