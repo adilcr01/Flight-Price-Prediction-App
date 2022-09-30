@@ -51,7 +51,6 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── flight_rf.pkl
 ├── requirements.txt
 ```
-#### Note: Extract flight_rf.rar to get the flight_rf.pkl file. (Due to github size limit of 25 mb)
 
 ## Technologies Used
 
