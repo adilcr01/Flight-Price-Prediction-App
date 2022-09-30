@@ -31,12 +31,13 @@ The Code is written in Python 3.7. If you don't have Python installed you can fi
 pip install -r requirements.txt
 ```
 
-## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+## Deployement on Azure
+Login or signup in order to create virtual app. You can either connect your github profile or Azure Repos or Use Local git to manually deploy this project.
 
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+![image](https://user-images.githubusercontent.com/93968656/193308702-5549dafa-564e-4cb1-ad46-287a6759208c.png)
 
-Our next step would be to follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
+
+Our next step would be to follow the instruction given on [Azure Documentation](https://learn.microsoft.com/en-us/azure/app-service/quickstart-python?tabs=flask%2Cwindows%2Cazure-cli%2Cvscode-deploy%2Cdeploy-instructions-azportal%2Cterminal-bash%2Cdeploy-instructions-zip-azcli) to deploy a web app.
 
 ## Directory Tree 
 ```
